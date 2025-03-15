@@ -44,7 +44,6 @@ To run this project locally:
 
 ## 🔮 Future Improvements
 
-- Add shopping cart functionality
 - Implement customer review submission
 
 ## 📝 License
